@@ -72,8 +72,9 @@ button:hover{
 }
 
 .yazı{
-    padding-top: 10px;
+    padding-top:15px;
     padding-left: 50%;
+    line-height: 0px;
 }
 
 .menu , .socialmedia{
